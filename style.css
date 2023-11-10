@@ -1,0 +1,403 @@
+.wrapper{
+		width:100%;
+		height:1000px;
+		
+}
+.banner-img
+{
+	height:400px;
+	width:99.90%;
+	
+	
+}
+.navigation
+{
+		background-color:#003F87;
+		width:99%;
+		height:50px;
+		font-family:arial;
+		font-size: 14px;
+		padding:5px;
+	
+}
+.colleges
+{
+		width:100%;
+		height:300px;
+		font-family:arial;
+		font-size:14px;
+	
+		
+}
+
+	.listcolleges 
+	{
+			
+			float:left;
+			width:30%;
+			height:270px;
+			list-style-type:none;
+			margin: 5px;
+			padding:5px;
+			
+			
+	}
+			
+	.contentcolleges
+	{	
+			
+			float:right;
+			width:65%;
+			height:270px;
+			margin: 5px;
+			padding:5px;
+			
+			
+	}
+.footer-container{
+		width:99%;
+		height:250px;
+		background-color:#003F87;
+		margin: 5px;
+		font-family:arial;
+		font-size:14px;
+		
+		
+}
+li.a{
+  display:inline-block;
+  margin:2px;
+  
+}
+
+li.a a:link 
+{  
+  color:white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+li.a a:hover
+{
+  color:yellow;
+}
+
+li.b{
+  display:block;
+  background-color:#006ee6;
+  margin:5px;
+  padding:5px;
+  color:white;
+}
+li.b a:link, a:visited {
+  color:white;
+  padding: 10px 5px;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+li.b a:hover, a:active {
+  color:black;
+}
+
+p.CCS
+{
+		padding:20px;
+		margin: 5px;
+		font-family:arial;
+		font-size:14px;
+		text-align:justify;
+	
+}
+.textfooter
+{
+		
+		width:45%;
+		height:250px;
+		padding:10px 10px;
+		margin: 5px;
+		font-family:arial;
+		font-size:14px;
+		text-align:justify;
+		color:white;
+		float:left;
+}
+
+.socialicons
+{
+		
+		width:22%;
+		height:250px;
+		margin: 5px;
+		float:left;
+
+}
+
+.umaklogo
+{
+		
+		width:22%;
+		height:300px;
+		margin: 5px;
+		float:right;
+}
+.umak-logo
+{
+		width:85%;
+		height:180px;
+		margin-top:30px;
+}
+.gallery
+{
+		width:99.7%;
+		height:400px;
+		
+}
+
+.row1
+{
+	width:99.5%;
+	height:200px;
+	margin:2px;
+}
+.row2
+{
+	width:99.5%;
+	height:200px;
+}
+.container-img1
+{
+	width:19.7%;
+	height:150px;
+	float:left;
+	margin: 1px;
+}
+.container-img2
+{
+	width:19.7%;
+	height:150px;
+	float:left;
+	margin: 1px;
+}
+.container-img3
+{
+	width:19.7%;
+	height:150px;
+	float:left;
+	margin: 1px;
+}
+.container-img4
+{
+	width:19.7%;
+	height:150px;
+	float:left;
+	margin: 1px;
+}
+.container-img5
+{
+	width:19.7%;
+	height:150px;
+	float:left;
+	border:1px solid black;
+}
+.makatilogo
+{
+	width:100%;
+	height:140px;
+	padding-top:5px;
+}
+.container-img1:hover 
+{
+	background-image:url(images/umaklogo.png);
+	width:19.7%;
+	height:150px;
+	float:left;
+}
+
+.news
+{
+	width:100%;
+	
+	margin:20px;
+	
+}
+
+.news > p, li
+{
+	font-family:arial;
+	font-size:14px;
+	color:black;
+	line-height:25px;
+}
+
+.news1
+{
+	width:17%;
+	height:200px;
+	float:left;
+	margin:2px;
+	border-radius:25px;
+}
+
+.news1-desc
+{
+	width:15%;
+	height:200px;
+	float:left;
+	font-family:arial;
+	font-size:10px;
+	padding:2px;
+	margin:2px;
+	
+}
+
+.news2
+{
+	width:17%;
+	height:200px;
+	float:left;
+	margin:2px;
+	border-radius:25px;
+}
+
+.news2-desc
+{
+	width:15%;
+	height:200px;
+	float:left;
+	font-family:arial;
+	font-size:10px;
+	padding:2px;
+	margin:2px;
+}
+
+.news3
+{
+	width:17%;
+	height:200px;
+	float:left;
+	margin:2px;
+	border-radius:25px;
+}
+
+.news3-desc
+{
+	width:15%;
+	height:200px;
+	float:left;
+	font-family:arial;
+	font-size:10px;
+	padding:2px;
+	margin:2px;
+}
+
+.news1-img
+{
+	width:100%;
+	height:200px;
+	margin:1px;
+	opacity:1.0;
+	margin:2px;
+	border-radius:20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.news1-img:hover
+{
+	opacity:0.5;
+	width: 220px;
+	height: 220px;
+	transition: width 2s, height 4s;
+}
+
+.news-firstline
+{
+	width:98%;
+	height:250px;
+	margin-top:20px;
+	margin-left:10px;
+	
+}
+
+.news-firstline2
+{
+	width:98%;
+	height:250px;
+	margin:10px;
+}
+
+.sendmessage
+{
+	width:100%;		
+	color:white;
+}
+
+.sendmessage-round
+{
+  background-image: linear-gradient(180deg, #1b9cec, #0e0ca6, #05044c);
+	width:50%;
+	border-radius:5px;
+	padding:20px;
+	margin: 20px auto;
+	font-family:arial;
+	font-size:16px;
+	line-height:10px;
+	
+}
+
+input[type=text]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius:5px;
+  border:0px !important;
+  outline-style:none;
+  
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 0px;
+  border-radius: 5px;
+  resize: none;
+  outline-style:none;
+}
+
+input[type=button]{
+  width:100%;
+  background-color: #Ecf3ee;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size:16px;
+  font-weight:bold;
+}
+
+.grad {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+.mySlides 
+{
+	display:none
+}
+
+.img-chart
+{
+	width:100%
+}
+
+display-container
+{
+	width:100%;
+}
